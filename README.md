@@ -1,11 +1,11 @@
-<h1 align="center">Metaverse Dev-King Developer</h1>
+<h1 align="center">Metaverse Dev King Developer</h1>
 <div align="center"><strong>Cosmos Ecosystem Development</strong></div>
 <div align="center"><strong>APT/SUI Ecosystem Development</strong></div>
 <div align="center"><strong>EVM Ecosystem Development</strong></div>
 <div align="center"><strong>Solana Ecosystem Development</strong></div>
 <div align="center"><strong>Stacks/Clarity Development</strong></div>
 
-## About Dev-King Developer
+## About Dev King Developer
 
 <img align="right" width="50%" height="50%" src="https://us.123rf.com/450wm/shushanto/shushanto2209/shushanto220900703/191842443-destruction-of-planets-concept-art-illustration-background-image.jpg?ver=6" />
 <br />
