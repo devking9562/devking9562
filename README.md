@@ -22,4 +22,4 @@ Highlight Skills  <br />
  💦 CW20, CW721, ERC20, ERC721, ERC777, ERC1155, BEP20.... <br />
  💦 Clarity, Move, Rust(CosmWasm, Substrate), Go, Solidity, Web3.js, Terra.js, Solana.js, Ethereum.js..... <br />
  💦 React, Angular, Vue for frontend    <br />
- 💦 Node/Express, Python/Django, PHP, C#/ASP.NET for backend  <br />
+ 💦 Node/Express, Python/Django, PHP, Java, C#/ASP.NET for backend  <br />
